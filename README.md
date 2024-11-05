@@ -3,7 +3,7 @@
 👀 I’m interested in 🌐 web development, 🤖 AI, and 📱 mobile app design.
 🌱 I’m currently learning  🐍 Python for data science.
 💞️ I’m looking to collaborate on 🤝 community-driven projects and 🎨 creative web applications.
-📫 How to reach me 📧 via email at razipp5850@gmail.com or connect with me on LinkedIn: [your LinkedIn URL].
+📫  email at razipp5850@gmail.com or connect with me on LinkedIn: [your LinkedIn URL].
 😄 Pronouns: he/him
 ⚡ Fun fact: 🎉 I can solve a Rubik's Cube in under 30 minute!
 
